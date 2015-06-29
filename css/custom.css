@@ -177,7 +177,12 @@ a:hover{
     text-decoration: none;
 }
 
+/*AUTRES STYLE*/
+.lead{
+    text-align: justify;
+}
 .corps{
     font-size: 16px;
+    text-align: justify;
 }
 
